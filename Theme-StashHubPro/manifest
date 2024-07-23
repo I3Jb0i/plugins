@@ -1,0 +1,10 @@
+id: Theme-StashHubPro
+name: Theme-StashHubPro
+metadata:
+  description: StashHubPro Theme for Stash based on the work of ronilaukkarinen
+version: 1.0.1
+date: "2024-07-22 04:20:00"
+requires: []
+files:
+- Theme-StashHubPro.yml
+- Theme-StashHubPro.css
