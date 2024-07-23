@@ -1,0 +1,6 @@
+name: Theme-StashHubPro
+description: StashHubPro Theme for Stash based on the work of ronilaukkarinen tweaked by beej
+version: 1.0.1
+ui:
+  css:
+    - Theme-StashHubPro.css
