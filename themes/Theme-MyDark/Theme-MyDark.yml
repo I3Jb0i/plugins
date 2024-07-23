@@ -1,0 +1,6 @@
+name: Theme - MyDark
+description: My Dark Theme for Stash by bj
+version: 0.5
+ui:
+  css:
+    - Theme-MyDark.css

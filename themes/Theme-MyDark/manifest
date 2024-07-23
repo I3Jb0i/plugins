@@ -1,0 +1,10 @@
+id: Theme-MyDark
+name: Theme - MyDark
+metadata:
+  description: MyDark Theme for Stash by bj
+version: 1.2-228c294
+date: "2024-02-06 23:25:44"
+requires: []
+files:
+- Theme-MyDark.css
+- Theme-MyDark.yml
